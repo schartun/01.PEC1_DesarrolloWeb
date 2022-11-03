@@ -1,0 +1,23 @@
+{
+  "name": "01.-pec1_cruzdiez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Ivan Schartun <ischartun@uoc.edu>",
+  "license": "MIT",
+  "description": "A small site relate to Carlos Cruz-Diez",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "parcel": "^2.7.0"
+  }
+}
