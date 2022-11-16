@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"j7Taq":[function(require,module,exports) {
 
-},{}]},["hTdl7","j7Taq"], "j7Taq", "parcelRequirea604")
+},{}]},["hTdl7","j7Taq"], "j7Taq", "parcelRequirea15c")
 
 //# sourceMappingURL=categoria.967c60cf.js.map

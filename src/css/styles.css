@@ -1,16 +1,52 @@
 /* Swiper CSS Styles/Size */
 @import '../../node_modules/swiper/swiper-bundle.css';
 
-body {
-  margin: 0;
+:root {
+  --text-color: rgb(0, 0, 0);
+  --text-bg-color: rgb(255, 255, 255);
+  --contrast-color: rgb(189, 55, 0);
+  --bg-dark-color: rgb(0, 0, 0);
+  --bg-light-color: rgba(0, 0, 0, 0.1);
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+  font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--contrast-color);
+}
+
+ul {
+  list-style-type: none;
+}
+
+abbr {
+  text-decoration: none;
+}
+
+/*
+------------------------------------------
+En esta sección se dará formato al SWIPER
+------------------------------------------
+*/
+
+/* Reglas para configuracion de swiper   */
 .swiper {
   width: 100%;
-  /* height: 300px; */
+  height: 100%;
 }
 
 img {
-  height: 255px;
   width: 100%;
   object-fit: cover;
 }
+
+/* "Noto Serif Bold",Georgia,"Times New Roman",Times,serif; */
