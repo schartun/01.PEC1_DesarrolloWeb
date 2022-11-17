@@ -1,8 +1,3 @@
-import '../css/styles.css';
-import '../scss/nav.scss';
-import '../scss/footer.scss';
-import '../scss/index.scss';
-
 // core version + navigation, pagination modules:
 import Swiper, { Navigation, Pagination } from 'swiper';
 

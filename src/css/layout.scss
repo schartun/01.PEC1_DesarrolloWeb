@@ -1,0 +1,66 @@
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.columnA {
+  width: 75%;
+  margin: 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.columnB {
+  width: 80%;
+  margin-top: 4rem;
+  margin-bottom: 8rem;
+
+  ul {
+    padding-left: 2rem;
+    font-size: 2rem;
+    list-style-type: circle;
+
+    ul li {
+      list-style-type: square;
+    }
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+  a,
+  p {
+    color: var(--text-color);
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: 530px) {
+  .main-layout {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .columnA {
+    width: 35%;
+    margin: 2rem;
+  }
+}
+
+/*
+------------------------------------------
+En esta sección se dará formato al SWIPER
+------------------------------------------
+*/
+
+/* Reglas para configuracion de swiper   */
+.swiper {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* "Noto Serif Bold",Georgia,"Times New Roman",Times,serif; */
