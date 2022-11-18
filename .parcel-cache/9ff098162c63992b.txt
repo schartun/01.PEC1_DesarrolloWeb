@@ -1,22 +1,20 @@
-9157
+9153
 133/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/.prettierrc.json1667473680700000000 0
-147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.967c60cf.js.map1668677269350000000 0
-146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/presentacion.0cf10e80.js1668686320769752000 0
-139/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/presentacion.html1668686320769752000 0
-141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.5b18ae98.js1668686320769752000 0
-136/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.html1668686320569752000 0
-145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/enlaces.1110e809.js.map1668686320789752000 0
-144/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/index.8c1c22dc.css.map1668686526769752000 0
-150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/presentacion.0cf10e80.js.map1668686320789752000 0
-159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/01.PEC1_DesarrolloWeb.59712999.js.map1668686320579752000 0
-143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.967c60cf.js1668677269340000000 0
-145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.18dbc454.js.map1668677132920000000 0
+146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/presentacion.0cf10e80.js1668771618270000000 0
+139/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/presentacion.html1668771618300000000 0
+151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/Ragnar_Saga_Book.a0c355c9.jpg1668771561580000000 0
+141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.5b18ae98.js1668771561550000000 0
+136/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.html1668771561540000000 0
+145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/enlaces.1110e809.js.map1668771561720000000 0
+144/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/index.8c1c22dc.css.map1668771561560000000 0
+150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/presentacion.0cf10e80.js.map1668771618280000000 0
+159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/01.PEC1_DesarrolloWeb.59712999.js.map1668771561570000000 0
 129/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/package.json1668676228430000000 0
 123/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/js1667900003220000000 1
 135/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/css/index.scss1668677387690000000 0
+150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img/Ragnar_Lodbrok.jpg1668160716353397700 0
 148/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img/Raven_Banner.png1668158640959138200 0
-150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img/Ragnar-Lodbrok.jpg1668160716353397700 0
-130/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/vida.html1668675935190000000 0
+130/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/vida.html1668771954750000000 0
 134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/package-lock.json1668676228430000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/resolve-from/readme.md1668586724760000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/resolve-from/package.json1668586724440000000 0
@@ -71,6 +69,7 @@
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/lib/type/map.js1668586725910000000 0
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/lib/type/bool.js1668586724860000000 0
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/lib/type/null.js1668586725930000000 0
+152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img/Ragnar_Saga_Book.jpg1668162801316093500 0
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/lib/type/int.js1668586725560000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/lib/type/merge.js1668586725920000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/lib/type/float.js1668586725490000000 0
@@ -223,7 +222,7 @@
 174/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/css-textshadow.js1668586727280000000 0
 164/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/json.js1668586727670000000 0
 176/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/mutationobserver.js1668586727880000000 0
-140/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/index.8c1c22dc.css1668686526769752000 0
+140/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/index.8c1c22dc.css1668771561550000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/currentcolor.js1668586727340000000 0
 181/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/subresource-integrity.js1668586728040000000 0
 177/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/deviceorientation.js1668586727380000000 0
@@ -284,7 +283,7 @@
 175/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/css-caret-color.js1668586726860000000 0
 166/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/jpegxl.js1668586727670000000 0
 179/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/css-descendant-gtgt.js1668586726930000000 0
-147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/Raven_Banner.c4bd4588.png1668686320729752000 0
+147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/Raven_Banner.c4bd4588.png1668771561700000000 0
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/ac3-ec3.js1668586725110000000 0
 178/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/permissions-policy.js1668586727950000000 0
 169/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/xhtmlsmil.js1668586728140000000 0
@@ -524,7 +523,7 @@
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/portals.js1668586727980000000 0
 159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-property-descriptors/test1668586724870000000 1
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-property-descriptors/.nycrc1668586724570000000 0
-121/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist1668686526769752000 1
+121/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist1668772736900000000 1
 174/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-property-descriptors/.github/FUNDING.yml1668586725240000000 0
 162/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-property-descriptors/.github1668586725190000000 1
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-property-descriptors/package.json1668586725020000000 0
@@ -869,7 +868,7 @@
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cosmiconfig/dist/loaders.js1668586725200000000 0
 146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cosmiconfig/dist1668586725980000000 1
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cosmiconfig/README.md1668586725850000000 0
-133/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/uniones.html1668677269010000000 0
+133/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/uniones.html1668770736990000000 0
 182/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/react-refresh/cjs/react-refresh-babel.development.js1668586724850000000 0
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cosmiconfig/package.json1668586725340000000 0
 141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cosmiconfig1668586725830000000 1
@@ -919,7 +918,7 @@
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-yaml/dist/js-yaml.js1668586725760000000 0
 174/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md1668586725130000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/htmlnano/lib/modules/custom.js1668586725330000000 0
-147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.18dbc454.js.map1668686320789752000 0
+147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.18dbc454.js.map1668771561720000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/htmlnano/lib/modules/collapseWhitespace.js1668586725300000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cosmiconfig/dist/types.d.ts.map1668586725820000000 0
 179/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/htmlnano/lib/modules/collapseBooleanAttributes.js1668586725240000000 0
@@ -1176,7 +1175,7 @@
 159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/get-symbol-description/.nycrc1668586724690000000 0
 166/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/get-symbol-description/.eslintignore1668586724470000000 0
 162/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/get-symbol-description/README.md1668586725290000000 0
-145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.5b18ae98.js.map1668686320789752000 0
+145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.5b18ae98.js.map1668771561570000000 0
 177/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/link-rel-prefetch.js1668586727730000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/get-symbol-description/LICENSE1668586724790000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/get-symbol-description1668586725300000000 1
@@ -1339,7 +1338,6 @@
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tsconfig-paths/lib/__tests__/data1668586726320000000 1
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tsconfig-paths/lib/index.js.map1668586725450000000 0
 170/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tsconfig-paths/lib/match-path-async.d.ts1668586725590000000 0
-149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/Ragnar-Lodbrok.873a34ac.jpg1668686320539752000 0
 168/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/lazyload.js1668586727710000000 0
 169/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/supports-preserve-symlinks-flag/LICENSE1668586724630000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tsconfig-paths/lib/mapping-entry.js1668586725550000000 0
@@ -1520,7 +1518,7 @@
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/prettier/parser-markdown.js1668586727240000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/prettier/standalone.js1668586727680000000 0
 156/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/prettier/parser-angular.js1668586726600000000 0
-136/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/css/layout.scss1668685123270000000 0
+136/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/css/layout.scss1668770227930000000 0
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/prettier/parser-flow.js1668586727130000000 0
 146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/prettier/LICENSE1668586725520000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/prettier/esm/parser-meriyah.mjs1668586727970000000 0
@@ -1726,7 +1724,7 @@
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/angular/fesm20151668586727730000000 1
 149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/call-bind/.eslintrc1668586724590000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/angular/fesm2020/swiper_angular.mjs1668586727750000000 0
-131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img1668593723020000000 1
+131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img1668758992070000000 1
 159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/browsers.js1668586726380000000 0
 176/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/angular/fesm2020/swiper_angular.mjs.map1668586727500000000 0
 146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/fast-levenshtein1668586724700000000 1
@@ -1826,7 +1824,7 @@
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function.prototype.name/helpers1668586725030000000 1
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function.prototype.name/README.md1668586725600000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function.prototype.name/auto.js1668586724960000000 0
-132/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/final.html1668686320579752000 0
+132/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/final.html1668772736890000000 0
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function.prototype.name1668586725580000000 1
 148/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/read-pkg/readme.md1668586724760000000 0
 147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/read-pkg/index.js1668586724530000000 0
@@ -1848,7 +1846,7 @@
 134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/glob1668586725150000000 1
 146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/nice-try/LICENSE1668586724660000000 0
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/nice-try/package.json1668586724450000000 0
-138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/vida.6fc81e42.js1668686320769752000 0
+138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/vida.6fc81e42.js1668771954860000000 0
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/nice-try/src/index.js1668586724940000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/css-rrggbbaa.js1668586727220000000 0
 138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/nice-try1668586724660000000 1
@@ -1864,7 +1862,7 @@
 180/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/posthtml/node_modules/posthtml-parser/package.json1668586724980000000 0
 143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/node-releases1668586725230000000 1
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/posthtml/node_modules1668586720540000000 1
-131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/vida.html1668686320579752000 0
+131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/vida.html1668771954890000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/reusify/.coveralls.yml1668586724530000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/weak-lru-cache/rollup.config.js1668586724990000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/reusify/benchmarks/createNoCodeFunction.js1668586725140000000 0
@@ -1917,6 +1915,7 @@
 149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint-visitor-keys1668586725150000000 1
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function-bind/.travis.yml1668586725030000000 0
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function-bind/.eslintrc1668586725100000000 0
+149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/Ragnar_Lodbrok.fd6ec21f.jpg1668771561700000000 0
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function-bind/.npmignore1668586724570000000 0
 158/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/function-bind/test/.eslintrc1668586725400000000 0
 149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/deep-is/test/cmp.js1668586724890000000 0
@@ -2008,7 +2007,7 @@
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/resolve-uri1668586725130000000 1
 181/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js1668586724830000000 0
 185/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js.map1668586725420000000 0
-134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/enlaces.html1668686320569752000 0
+134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/enlaces.html1668771762600000000 0
 181/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/trace-mapping/dist/types/by-source.d.ts1668586725670000000 0
 179/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/trace-mapping/dist/types/resolve.d.ts1668586725690000000 0
 189/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/trace-mapping/dist/types/sourcemap-segment.d.ts1668586725720000000 0
@@ -2038,7 +2037,7 @@
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/is-date-object/package.json1668586725150000000 0
 144/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/is-date-object1668586725290000000 1
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/estraverse/estraverse.js1668586724800000000 0
-143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.18dbc454.js1668686320779752000 0
+143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/categoria.18dbc454.js1668771561700000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/estraverse/LICENSE.BSD1668586724580000000 0
 150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/estraverse/README.md1668586725200000000 0
 147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/commander/typings1668586725440000000 1
@@ -3040,7 +3039,6 @@
 147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/find-up/readme.md1668586724790000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/ssr-window/types/document.d.ts1668586725270000000 0
 143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/internal-slot1668586725290000000 1
-168/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/Harley_MS_2278,_folio_39r_excerpt.25927972.jpg1668686320539752000 0
 148/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/find-up/index.d.ts1668586724880000000 0
 162/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/fs/src/NodeFS.browser.js1668586725530000000 0
 145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/resolve/.github1668586727040000000 1
@@ -3236,7 +3234,7 @@
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint-config-airbnb-base/README.md1668586725770000000 0
 144/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/parcel/LICENSE1668586724450000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-symbols/test/tests.js1668586725330000000 0
-133/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/enlaces.html1668686107039752000 0
+133/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/enlaces.html1668771762470000000 0
 158/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/is-date-object/.eslintignore1668586724560000000 0
 146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/resolve/async.js1668586725660000000 0
 179/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/es6-string-includes.js1668586727460000000 0
@@ -3857,7 +3855,7 @@
 149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/json5/lib/util.d.ts1668586725860000000 0
 153/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/react/context.js1668586726450000000 0
 141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/is-callable1668586725330000000 1
-131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/final.html1668675898250000000 0
+131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/final.html1668772739020000000 0
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/base-x/src/index.d.ts1668586724980000000 0
 170/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/core/modules/observer/observer.js1668586727050000000 0
 169/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/htmlparser2/lib/WritableStream.d.ts.map1668586725460000000 0
@@ -4056,7 +4054,7 @@
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/regions/NA.js1668586727890000000 0
 150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/node-addon-api/tools1668586725950000000 1
 171/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/prefer-object-has-own.js1668586727710000000 0
-134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/css/main.scss1668681636190000000 0
+134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/css/main.scss1668760846130000000 0
 158/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/entities/lib/encode.d.ts.map1668586725750000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-multi-assign.js1668586727490000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/max-lines-per-function.js1668586727260000000 0
@@ -4091,7 +4089,7 @@
 142/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/once/once.js1668586724770000000 0
 175/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/lib/_interop_require_wildcard.js1668586726070000000 0
 142/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/.bin/js-yaml1668586729460000000 0
-155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/01.PEC1_DesarrolloWeb.59712999.js1668686320579752000 0
+155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/01.PEC1_DesarrolloWeb.59712999.js1668771561550000000 0
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2019/ToIndex.js1668586728290000000 0
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-eval.js1668586727410000000 0
 138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/anymatch1668589000840000000 1
@@ -4303,7 +4301,7 @@
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/dom-serializer/node_modules1668586720540000000 1
 182/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc.c1668586726600000000 0
 171/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/js-sdsl/dist/cjs/container/OtherContainer1668586726070000000 1
-137/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/incursiones.html1668675909920000000 0
+137/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/incursiones.html1668772642800000000 0
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-mixed-requires.js1668586727480000000 0
 174/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@jridgewell/set-array/dist/set-array.mjs.map1668586724910000000 0
 177/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@babel/helper-validator-identifier/package.json1668586725390000000 0
@@ -4988,7 +4986,7 @@
 144/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@lezer/lr/dist1668586725530000000 1
 147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tslib/LICENSE.txt1668586725510000000 0
 159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/lib/_decorate.js1668586725930000000 0
-134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.html1668686320579752000 0
+134/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.html1668771561700000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/path-exists/index.d.ts1668586724540000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2021/BigIntBitwiseOp.js1668586726490000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-continue.js1668586727370000000 0
@@ -5167,7 +5165,6 @@
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/is-boolean-object/LICENSE1668586724870000000 0
 166/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/webusb.js1668586728120000000 0
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/object-keys/README.md1668586725330000000 0
-169/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/assets/img/Harley_MS_2278,_folio_39r_excerpt.jpg1668162801316093500 0
 174/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/source-code/token-store/cursor.js1668586726400000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2021/OrdinarySetPrototypeOf.js1668586728140000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/uri-js/dist/es5/uri.all.js.map1668586726020000000 0
@@ -5403,7 +5400,7 @@
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2017/TimeWithinDay.js1668586728270000000 0
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/default-case-last.js1668586726430000000 0
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-undef-init.js1668586727580000000 0
-138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/presentacion.html1668684989730000000 0
+138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/presentacion.html1668771618110000000 0
 147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/dist1668586728040000000 1
 146/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/core/src1668586727300000000 1
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/has-bigints/.eslintrc1668586724470000000 0
@@ -5432,7 +5429,7 @@
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/terser/tools/exit.cjs1668586725070000000 0
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/transformer-image/LICENSE1668586724490000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-dupe-else-if.js1668586727380000000 0
-131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/index.html1668685186340000000 0
+131/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/index.html1668770930330000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/5/MakeTime.js1668586728030000000 0
 171/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/type-fest/source/require-exactly-one.d.ts1668586725870000000 0
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/css-tree/dist/csstree.js1668586726270000000 0
@@ -5610,7 +5607,7 @@
 204/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.darwin-arm64.node1668586726220000000 0
 181/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/src/_iterable_to_array_limit_loose.mjs1668586726790000000 0
 149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/json5/dist/index.js1668586725010000000 0
-142/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/vida.6fc81e42.js.map1668686320789752000 0
+142/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/vida.6fc81e42.js.map1668771954860000000 0
 158/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/core/classes/index.js1668586726820000000 0
 162/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/utils/src/http-server.js1668586725790000000 0
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/src/_sliced_to_array.mjs1668586726880000000 0
@@ -5831,7 +5828,7 @@
 182/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tsconfig-paths/src/__tests__/tsconfig-loader.test.ts1668586726270000000 0
 182/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/lib/_object_without_properties_loose.js1668586726160000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/mdn-data/l10n/index.js1668586725090000000 0
-116/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb1668677044220000000 1
+116/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb1668759353330000000 1
 177/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/resolver-default/src/DefaultResolver.js1668586724900000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/ajv/lib/dotjs/anyOf.js1668586726040000000 0
 170/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/node-resolver-core/src/_empty.js1668586724820000000 0
@@ -5910,7 +5907,6 @@
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/offline-apps.js1668586727920000000 0
 162/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/is-shared-array-buffer/.eslintrc1668586724560000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-implied-eval.js1668586727440000000 0
-141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/uniones.18dbc454.js1668677132910000000 0
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/tsconfig-paths/src/match-path-sync.ts1668586725980000000 0
 156/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/vue/swiper-slide.js1668586727350000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2022/ToBigUint64.js1668586728270000000 0
@@ -6152,7 +6148,7 @@
 150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/object-keys/index.js1668586725140000000 0
 149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/fast-deep-equal/es61668586725300000000 1
 159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2022/substring.js1668586728220000000 0
-139/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/final.405dedbc.js1668686320769752000 0
+139/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/final.405dedbc.js1668772736900000000 0
 175/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/lmdb/node_modules/node-addon-api/node_api.gyp1668586724620000000 0
 176/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/lib/_skip_first_generator_next.js1668586726220000000 0
 152/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rule-tester1668586727760000000 1
@@ -6384,7 +6380,7 @@
 205/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/package.json1668586726330000000 0
 154/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/5/WeekDay.js1668586728360000000 0
 201/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/index.js1668586725650000000 0
-143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/final.405dedbc.js.map1668686320789752000 0
+143/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/final.405dedbc.js.map1668772736900000000 0
 148/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/css-tree/lib/lexer1668586727090000000 1
 186/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage1668586726390000000 1
 151/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/minimist/package.json1668586725640000000 0
@@ -6681,7 +6677,7 @@
 141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/cross-spawn1668586725250000000 1
 158/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/transformer-json/lib1668586724600000000 1
 177/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/transformer-json/lib/JSONTransformer.js1668586724720000000 0
-145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/incursiones.9f3e0cce.js1668686320769752000 0
+145/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/incursiones.9f3e0cce.js1668771561550000000 0
 171/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@swc/helpers/lib/_class_name_tdz_error.js1668586725580000000 0
 171/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/no-buffer-constructor.js1668586727330000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/consistent-this.js1668586726350000000 0
@@ -7288,7 +7284,7 @@
 169/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/swiper-bundle.esm.browser.min.js1668586727250000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/codeframe/package.json1668586726380000000 0
 169/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/core/src/ParcelConfig.schema.js1668586726980000000 0
-132/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/index.html1668686320769752000 0
+132/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/index.html1668771561700000000 0
 173/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/notifications.js1668586727910000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/core/package.json1668586727330000000 0
 150/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/core/LICENSE1668586725840000000 0
@@ -7445,7 +7441,7 @@
 171/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/features/wbr-element.js1668586728110000000 0
 157/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/object.assign/hasSymbols.js1668586726180000000 0
 177/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/core/test/fixtures/context/package.json1668586727350000000 0
-135/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/categoria.html1668685065640000000 0
+135/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/src/categoria.html1668771462760000000 0
 187/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/core/test/fixtures/config-node-pipeline/.parcelrc1668586725450000000 0
 174/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/dom-serializer/node_modules/entities/LICENSE1668586724530000000 0
 147/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/graph/src1668586725740000000 1
@@ -8360,7 +8356,7 @@
 162/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2015/RegExpCreate.js1668586728150000000 0
 172/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2018/RequireObjectCoercible.js1668586728160000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2015/SplitMatch.js1668586728210000000 0
-149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/incursiones.9f3e0cce.js.map1668686320789752000 0
+149/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/incursiones.9f3e0cce.js.map1668771561570000000 0
 165/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/package-manager/src/Yarn.js1668586726260000000 0
 173/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2015/SymbolDescriptiveString.js1668586728220000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/swiper/core/slide/slideNext.js1668586727150000000 0
@@ -9065,7 +9061,7 @@
 167/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2019/SetFunctionLength.js1668586728180000000 0
 156/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2019/ToInt8.js1668586728300000000 0
 166/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2019/IteratorComplete.js1668586727960000000 0
-141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/enlaces.1110e809.js1668686320769752000 0
+141/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/enlaces.1110e809.js1668771561700000000 0
 161/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/caniuse-lite/data/regions/CO.js1668586726610000000 0
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/2019/UnicodeEscape.js1668586728340000000 0
 148/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/@parcel/events/lib1668586725350000000 1
@@ -9142,7 +9138,7 @@
 163/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/svgo/plugins/removeHiddenElems.js1668586726260000000 0
 159/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/entities/lib/encode-trie.d.ts1668586725840000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/operations/2017.js1668586725410000000 0
-138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/incursiones.html1668686320569752000 0
+138/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/dist/incursiones.html1668772643310000000 0
 160/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/es-abstract/operations/2019.js1668586725560000000 0
 168/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/eslint/lib/rules/prefer-rest-params.js1668586727720000000 0
 155/home/schartun/UOC/MasterDesarrolloWeb/segundoSemestre/00. M4-257_Herramientas/00.Repositories/01.PEC1_DesarrolloWeb/node_modules/grapheme-splitter/LICENSE1668586725290000000 0

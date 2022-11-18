@@ -17,10 +17,9 @@
 
   ul {
     padding-left: 2rem;
-    font-size: 2rem;
-    list-style-type: circle;
 
-    ul li {
+    li {
+      font-size: 2rem;
       list-style-type: square;
     }
   }
@@ -29,7 +28,8 @@
     font-size: 3rem;
   }
   a,
-  p {
+  p,
+  span {
     color: var(--text-color);
     font-size: 2rem;
   }
@@ -39,11 +39,22 @@
   .main-layout {
     display: flex;
     flex-direction: row;
+    align-items: start;
   }
 
   .columnA {
     width: 35%;
     margin: 2rem;
+  }
+
+  .columnB {
+    width: 60%;
+    margin-top: 2rem;
+
+    p,
+    ul {
+      width: 90%;
+    }
   }
 }
 
