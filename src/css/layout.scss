@@ -1,5 +1,7 @@
 .main-layout {
   display: flex;
+  width: 80%;
+  margin: 2rem auto 0 auto;
   flex-direction: column;
   align-items: center;
 }
@@ -19,7 +21,7 @@
     padding-left: 2rem;
 
     li {
-      font-size: 2rem;
+      font-size: 1.8rem;
       list-style-type: square;
     }
   }
@@ -27,11 +29,23 @@
   h1 {
     font-size: 3rem;
   }
-  a,
+
   p,
+  cite,
+  em,
   span {
     color: var(--text-color);
-    font-size: 2rem;
+    font-size: 1.8rem;
+  }
+
+  a {
+    font-size: 1.8rem;
+    color: var(--contrast-color);
+    border-bottom: var(--contrast-color) 0.2rem dotted;
+
+    &:hover {
+      color: var(--text-color);
+    }
   }
 }
 
