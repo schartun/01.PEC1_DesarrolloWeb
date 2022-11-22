@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"g572q":[function(require,module,exports) {
 
-},{}]},["dQOFB","g572q"], "g572q", "parcelRequirea15c")
+},{}]},["dQOFB","g572q"], "g572q", "parcelRequire7db6")
 
 //# sourceMappingURL=presentacion.0cf10e80.js.map

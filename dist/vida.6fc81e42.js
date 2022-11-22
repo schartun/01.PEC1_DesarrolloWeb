@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"VzAbd":[function(require,module,exports) {
 
-},{}]},["dGDHh","VzAbd"], "VzAbd", "parcelRequirea15c")
+},{}]},["dGDHh","VzAbd"], "VzAbd", "parcelRequire7db6")
 
 //# sourceMappingURL=vida.6fc81e42.js.map

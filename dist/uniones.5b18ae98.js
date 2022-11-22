@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"5JtXe":[function(require,module,exports) {
 
-},{}]},["9J6pW","5JtXe"], "5JtXe", "parcelRequirea15c")
+},{}]},["9J6pW","5JtXe"], "5JtXe", "parcelRequire7db6")
 
 //# sourceMappingURL=uniones.5b18ae98.js.map
