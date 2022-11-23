@@ -6,13 +6,15 @@
 /* Swiper CSS Styles/Size */
 @import '../../node_modules/swiper/swiper-bundle.css';
 
+// Definición de variables de color globales
+// No se emplease la detonación de variables de Sass debido al cambio de color de flechas en Swipper
 :root {
   --text-color: rgb(0, 0, 0);
-  --text-bg-color: rgb(255, 255, 255);
   --contrast-color: rgb(189, 55, 0);
-  --bg-dark-color: rgb(0, 0, 0);
-  --bg-light-color: rgba(0, 0, 0, 0.1);
+  --swiper-theme-color: #fff;
 }
+
+// Reset general de documento
 * {
   margin: 0;
   padding: 0;
@@ -20,6 +22,8 @@
   font-size: 62.5%;
   font-family: 'Noto Serif', serif;
 }
+
+// Set general de valores para selectores comunes
 
 a {
   text-decoration: none;

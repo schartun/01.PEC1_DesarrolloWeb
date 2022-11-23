@@ -32,7 +32,7 @@ nav li.active {
   border-bottom: 1px solid var(--contrast-color);
 }
 
-@media (min-width: 750px) {
+@media (min-width: 650px) {
   .logo {
     width: fit-content;
     margin: 0 2rem;
@@ -56,19 +56,18 @@ footer {
   width: 100%;
   text-align: center;
   background-color: var(--text-color);
-  color: var(--text-bg-color);
+  color: var(--swiper-theme-color);
   font-size: 1.2rem;
-  line-height: 3rem;
+  line-height: 2rem;
   position: fixed;
   bottom: 0;
 }
 
-footer p {
+footer p:first-child {
   padding-top: 1rem;
-  padding-bottom: 2rem;
 }
 
-@media (min-width: 950px) {
+@media (min-width: 650px) {
   p {
     font-size: 1.1rem;
   }
@@ -82,11 +81,12 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: .3rem;
+  padding-bottom: 69%;
 }
 
-@media (max-width: 650px) {
-  div {
-    background-position: top;
+@media (min-width: 650px) {
+  .raven {
+    padding-top: 15%;
   }
 }
 
@@ -120,7 +120,13 @@ footer p {
 }
 
 .columnB h1 {
+  margin-bottom: 1rem;
   font-size: 3rem;
+}
+
+.columnB p {
+  margin-bottom: .8rem;
+  line-height: 2.8rem;
 }
 
 .columnB p, .columnB cite, .columnB em, .columnB span {
@@ -138,7 +144,12 @@ footer p {
   color: var(--text-color);
 }
 
-@media (min-width: 530px) {
+figcaption {
+  padding: .8rem;
+  font-size: .8rem;
+}
+
+@media (min-width: 650px) {
   .main-layout {
     flex-direction: row;
     align-items: start;
@@ -153,6 +164,7 @@ footer p {
   .columnB {
     width: 60%;
     margin-top: 2rem;
+    margin-left: 2rem;
   }
 
   .columnB p, .columnB ul {
@@ -818,10 +830,8 @@ button.swiper-pagination-bullet {
 
 :root {
   --text-color: #000;
-  --text-bg-color: #fff;
   --contrast-color: #bd3700;
-  --bg-dark-color: #000;
-  --bg-light-color: #0000001a;
+  --swiper-theme-color: #fff;
 }
 
 * {

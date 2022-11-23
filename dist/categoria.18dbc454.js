@@ -533,6 +533,7 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"1SICI":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+// Codificación extraida de la documentación de Swipper
 // core version + navigation, pagination modules:
 var _swiper = require("swiper");
 var _swiperDefault = parcelHelpers.interopDefault(_swiper);

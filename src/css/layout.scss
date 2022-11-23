@@ -1,3 +1,4 @@
+// Estructura principal del main de las paginas exectuando, index.html
 .main-layout {
   display: flex;
   width: 80%;
@@ -27,7 +28,13 @@
   }
 
   h1 {
+    margin-bottom: 1rem;
     font-size: 3rem;
+  }
+
+  p {
+    margin-bottom: 0.8rem;
+    line-height: 2.8rem;
   }
 
   p,
@@ -49,7 +56,13 @@
   }
 }
 
-@media (min-width: 530px) {
+figcaption {
+  padding: 0.8rem;
+  font-size: 0.8rem;
+}
+
+// Reglas para modificar propiedades a pantallas mayores a 650px
+@media (min-width: 650px) {
   .main-layout {
     display: flex;
     flex-direction: row;
@@ -64,6 +77,7 @@
   .columnB {
     width: 60%;
     margin-top: 2rem;
+    margin-left: 2rem;
 
     p,
     ul {
@@ -74,11 +88,12 @@
 
 /*
 ------------------------------------------
-En esta sección se dará formato al SWIPER
+En esta sección se dará formato al SWIPER 
+complemento instalado por nmp 
 ------------------------------------------
 */
 
-/* Reglas para configuracion de swiper   */
+// Reglas para configuracion de imagenes de swiper
 .swiper {
   width: 100%;
 }
@@ -87,5 +102,3 @@ img {
   width: 100%;
   object-fit: cover;
 }
-
-/* "Noto Serif Bold",Georgia,"Times New Roman",Times,serif; */
