@@ -8,6 +8,12 @@ header {
   box-shadow: 0 0 5px 1px #0000004d;
 }
 
+header img {
+  width: 10%;
+  height: auto;
+  margin: 0 auto;
+}
+
 .logo {
   font-family: Grenze Gotisch;
   font-size: 2.5rem;
@@ -59,8 +65,24 @@ footer {
   color: var(--swiper-theme-color);
   font-size: 1.2rem;
   line-height: 2rem;
-  position: fixed;
-  bottom: 0;
+}
+
+footer img {
+  width: 10%;
+  height: auto;
+  margin: 1rem auto 0;
+}
+
+footer .footer-menu ul {
+  justify-content: center;
+  gap: 2rem;
+  display: flex;
+}
+
+footer .footer-menu ul li a {
+  color: var(--swiper-theme-color);
+  font-size: .6rem;
+  text-decoration: none;
 }
 
 footer p:first-child {
@@ -68,14 +90,19 @@ footer p:first-child {
 }
 
 @media (min-width: 650px) {
-  p {
+  footer p, footer .footer-menu ul li a {
     font-size: 1.1rem;
   }
+}
+
+main {
+  background-color: red;
 }
 
 .raven {
   width: 100%;
   height: 80vh;
+  clip-path: ellipse(calc(10rem + 40%) calc(25rem + 40%) at 10% 20%);
   background-image: url("Raven_Banner.c4bd4588.png");
   background-position: center;
   background-repeat: no-repeat;

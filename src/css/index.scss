@@ -1,9 +1,15 @@
 // Regla para imagen de fonde index.html
 
+main {
+  background-color: red;
+}
+
 .raven {
   width: 100%;
   height: 80vh;
   background-image: url(../assets/img/Raven_Banner.png);
+  clip-path: ellipse(calc(10rem + 40%) calc(25rem + 40%) at 10% 20%);
+
   margin-top: 0.3rem;
   padding-bottom: 69%;
   background-repeat: no-repeat;

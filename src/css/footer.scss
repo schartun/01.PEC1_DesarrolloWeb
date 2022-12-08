@@ -1,13 +1,31 @@
 // Estilos para el footer generales
 footer {
   width: 100%;
-  position: fixed;
-  bottom: 0;
+  // position: fixed;
+  // bottom: 0;
   text-align: center;
   line-height: 2rem;
   font-size: 1.2rem;
   background-color: var(--text-color);
   color: var(--swiper-theme-color);
+
+  img {
+    margin: 1rem auto 0 auto;
+    width: 10%;
+    height: auto;
+  }
+
+  .footer-menu ul {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+
+    li a {
+      font-size: 0.6rem;
+      text-decoration: dotted;
+      color: var(--swiper-theme-color);
+    }
+  }
 
   p {
     &:first-child {
@@ -19,7 +37,10 @@ footer {
 // Reglas para modificar propiedades a pantallas mayores a 950px
 
 @media (min-width: 650px) {
-  p {
-    font-size: 1.1rem;
+  footer {
+    p,
+    .footer-menu ul li a {
+      font-size: 1.1rem;
+    }
   }
 }
