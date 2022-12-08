@@ -95,7 +95,7 @@ footer p:first-child {
   }
 }
 
-main {
+.index {
   background-color: red;
 }
 
@@ -126,7 +126,7 @@ main {
 }
 
 .columnA {
-  width: 75%;
+  width: 100%;
   margin: 2rem;
   box-shadow: 0 7px 29px #64646f33;
 }
@@ -176,7 +176,7 @@ figcaption {
   font-size: .8rem;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 769px) {
   .main-layout {
     flex-direction: row;
     align-items: start;

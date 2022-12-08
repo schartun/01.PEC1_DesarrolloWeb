@@ -8,7 +8,7 @@
 }
 
 .columnA {
-  width: 75%;
+  width: 100%;
   margin: 2rem;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -56,13 +56,16 @@
   }
 }
 
+// .columnc {
+// }
+
 figcaption {
   padding: 0.8rem;
   font-size: 0.8rem;
 }
 
 // Reglas para modificar propiedades a pantallas mayores a 650px
-@media (min-width: 650px) {
+@media (min-width: 769px) {
   .main-layout {
     display: flex;
     flex-direction: row;
