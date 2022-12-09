@@ -20,7 +20,8 @@
   </head>
   <body>
     <header>
-      <span class="logo">Ragnar Lodbrok</span>
+      <img src="/logoCascoVikingo.2f7b5937.png" alt="casco vikingo">
+      <h1 class="logo">Ragnar Lodbrok</h1>
       <nav>
         <ul>
           <li><a href="/index.html">Inicio</a></li>
@@ -40,28 +41,55 @@
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                  <img src="/Ragnar_Lodbrok_Nuremberg_chronicles.d8a097bc.png" alt="Ragnar ilustración">
+                  <!-- <img
+                    src="./assets/img/Ragnar_Lodbrok_Nuremberg_chronicles.png"
+                    alt="Ragnar ilustración"
+                  /> -->
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Ragnar_Lodbrok_480.15abead6.png">
+                    <source media="(max-width: 768px)" srcset="/Ragnar_Lodbrok_768.093c3504.png">
+                    <img src="/Ragnar_Lodbrok.9c9380e1.jpeg" alt="Ragnar ilustración">
+                  </picture>
                 </div>
-
                 <div class="swiper-slide">
-                  <img src="/Ragnar_Lodbrok.bea404d5.png" alt="Ragnar con dama">
+                  <!-- <img
+                    src="./assets/img/Ragnar_Lodbrok.png"
+                    alt="Ragnar con dama"
+                  /> -->
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Ragnar_Uniones_480.e819d3ed.png">
+                    <source media="(max-width: 768px)" srcset="/Ragnar_Uniones_768.0c37a57f.png">
+                    <img src="/Ragnar_Uniones.734b2b04.png" alt="Ragnar desembarcando y tomando la mano de una dama">
+                  </picture>
                 </div>
-
                 <div class="swiper-slide">
-                  <img src="/Vikingos_invadiendo.3559ffb5.png" alt="Danesses a punto de invadir Inglaterra">
+                  <!-- <img
+                    src="./assets/img/Vikingos_invadiendo.png"
+                    alt="Danesses a punto de invadir Inglaterra"
+                  /> -->
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Vikingos_invadiendo_480.466f1de1.png">
+                    <source media="(max-width: 768px)" srcset="/Vikingos_invadiendo_768.bd7c6a07.png">
+                    <img src="/Vikingos_invadiendo.b0fbeb63.png" alt="Pintura de barcos Vikingos en el mar">
+                  </picture>
                 </div>
-
                 <div class="swiper-slide">
-                  <img src="/Muerte_de_Ragnar_Lodbroks.54f7d257.png" alt="Muerte de Ragnar">
+                  <!-- <img
+                    src="./assets/img/Muerte_de_Ragnar_Lodbroks.png"
+                    alt="Muerte de Ragnar"
+                  /> -->
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Muerte_de_Ragnar_Lodbroks_480.87e7946c.png">
+                    <source media="(max-width: 768px)" srcset="/Muerte_de_Ragnar_Lodbroks_768.bf2f7ba3.png">
+                    <img src="/Muerte_de_Ragnar_Lodbroks.409978f0.png" alt="Ragnar dentro un pozo con serpientes agonizando">
+                  </picture>
                 </div>
               </div>
               <!-- If we need pagination -->
               <div class="swiper-pagination"></div>
-
               <!-- If we need navigation buttons -->
               <div class="swiper-button-prev"></div>
               <div class="swiper-button-next"></div>
-
               <!-- If we need scrollbar -->
               <div class="swiper-scrollbar"></div>
             </div>
@@ -96,14 +124,30 @@
             </li>
           </ul>
         </div>
+        <div class="columnC">
+          <img srcset="/cuervo_50.7c4f7b19.png   50w, /cuervo_768.13512193.png 768w" sizes="(max-width: 480px) 50px, 768px" src="/cuervo_768.13512193.png" alt="Cuervo de Odin">
+        </div>
       </section>
     </main>
     <footer>
-      <p>
-        Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
-        <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
-        <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
-      </p>
+      <div>
+        <img src="/logoCascoVikingoBlanco.2a708464.png" alt="casco vikingo">
+      </div>
+      <div class="footer-menu">
+        <ul>
+          <li><a href="/categoria.html">Categoría</a></li>
+          <li><a href="/presentacion.html">Presentación</a></li>
+          <li><a href="/enlaces.html">Enlaces</a></li>
+        </ul>
+      </div>
+      <div>
+        <p>Imagen de Portada Escudo de Cuervo | Skydrake |CC BY-SA 3.0</p>
+        <p>
+          Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
+          <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
+          <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
+        </p>
+      </div>
     </footer>
   </body>
 </html>

@@ -63,6 +63,7 @@ footer {
   text-align: center;
   background-color: var(--text-color);
   color: var(--swiper-theme-color);
+  margin-top: 8rem;
   font-size: 1.2rem;
   line-height: 2rem;
 }
@@ -118,10 +119,9 @@ footer p:first-child {
 }
 
 .main-layout {
-  width: 80%;
+  width: 100%;
   flex-direction: column;
   align-items: center;
-  margin: 2rem auto 0;
   display: flex;
 }
 
@@ -134,7 +134,7 @@ footer p:first-child {
 .columnB {
   width: 80%;
   margin-top: 4rem;
-  margin-bottom: 8rem;
+  margin-bottom: 2rem;
 }
 
 .columnB ul {
@@ -171,6 +171,11 @@ footer p:first-child {
   color: var(--text-color);
 }
 
+.columnC {
+  width: 30%;
+  margin: 0 auto;
+}
+
 figcaption {
   padding: .8rem;
   font-size: .8rem;
@@ -178,24 +183,25 @@ figcaption {
 
 @media (min-width: 769px) {
   .main-layout {
-    flex-direction: row;
-    align-items: start;
-    display: flex;
+    grid-template-columns: 1fr 1fr;
+    place-items: start center;
+    display: grid;
   }
 
   .columnA {
-    width: 35%;
-    margin: 2rem;
+    width: 80%;
   }
 
-  .columnB {
-    width: 60%;
+  .columnA figure {
     margin-top: 2rem;
-    margin-left: 2rem;
   }
 
   .columnB p, .columnB ul {
     width: 90%;
+  }
+
+  .columnC {
+    grid-column: 2 / 2;
   }
 }
 

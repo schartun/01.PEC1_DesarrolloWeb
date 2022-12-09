@@ -24,7 +24,8 @@
   </head>
   <body>
     <header>
-      <span class="logo">Ragnar Lodbrok</span>
+      <img src="./assets/img/logoCascoVikingo.png" alt="casco vikingo" />
+      <h1 class="logo">Ragnar Lodbrok</h1>
       <nav>
         <ul>
           <li><a href="index.html">Inicio</a></li>
@@ -38,13 +39,23 @@
       <article class="main-layout">
         <div class="columnA">
           <figure>
-            <img
-              src="./assets/img/Vikingos_invadiendo.png"
-              alt="Danesses a punto de invadir Inglaterra"
-            />
+            <picture>
+              <source
+                media="(max-width: 480px)"
+                srcset="./assets/img/incursiones/Vikingos_invadiendo_480.png"
+              />
+              <source
+                media="(max-width: 768px)"
+                srcset="./assets/img/incursiones/Vikingos_invadiendo_768.png"
+              />
+              <img
+                src="./assets/img/incursiones/Vikingos_invadiendo.png"
+                alt="Pintura de barcos Vikingos en el mar"
+              />
+            </picture>
             <figcaption>
-              Daneses a punto de invadir Inglaterra | Miscelánea sobre la vida
-              de san Edmundo Dominio público
+              Ilustración de Las Crónicas de Núremberg. | Nuremberg | Dominio
+              público
             </figcaption>
           </figure>
         </div>
@@ -109,14 +120,41 @@
             </li>
           </ul>
         </div>
+        <div class="columnC">
+          <img
+            srcset="
+              ./assets/img/cuervo/cuervo_50.png   50w,
+              ./assets/img/cuervo/cuervo_768.png 768w
+            "
+            sizes="(max-width: 480px) 50px, 768px"
+            src="./assets/img/cuervo/cuervo_768.png"
+            alt="Cuervo de Odin"
+          />
+        </div>
       </article>
     </main>
     <footer>
-      <p>
-        Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
-        <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
-        <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
-      </p>
+      <div>
+        <img
+          src="./assets/img/logoCascoVikingoBlanco.png"
+          alt="casco vikingo"
+        />
+      </div>
+      <div class="footer-menu">
+        <ul>
+          <li><a href="categoria.html">Categoría</a></li>
+          <li><a href="presentacion.html">Presentación</a></li>
+          <li><a href="enlaces.html">Enlaces</a></li>
+        </ul>
+      </div>
+      <div>
+        <p>Imagen de Portada Escudo de Cuervo | Skydrake |CC BY-SA 3.0</p>
+        <p>
+          Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
+          <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
+          <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
+        </p>
+      </div>
     </footer>
   </body>
 </html>

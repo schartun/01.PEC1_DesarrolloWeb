@@ -26,7 +26,8 @@
   </head>
   <body>
     <header>
-      <span class="logo">Ragnar Lodbrok</span>
+      <img src="./assets/img/logoCascoVikingo.png" alt="casco vikingo" />
+      <h1 class="logo">Ragnar Lodbrok</h1>
       <nav>
         <ul>
           <li><a href="index.html">Inicio</a></li>
@@ -46,40 +47,99 @@
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                  <img
+                  <!-- <img
                     src="./assets/img/Ragnar_Lodbrok_Nuremberg_chronicles.png"
                     alt="Ragnar ilustración"
-                  />
+                  /> -->
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="./assets/img/vida/Ragnar_Lodbrok_480.png"
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="./assets/img/vida/Ragnar_Lodbrok_768.png"
+                    />
+                    <img
+                      src="./assets/img/vida/Ragnar_Lodbrok.jpg"
+                      alt="Ragnar ilustración"
+                    />
+                  </picture>
                 </div>
-
                 <div class="swiper-slide">
-                  <img
+                  <!-- <img
                     src="./assets/img/Ragnar_Lodbrok.png"
                     alt="Ragnar con dama"
-                  />
+                  /> -->
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="./assets/img/uniones/Ragnar_Uniones_480.png"
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="./assets/img/uniones/Ragnar_Uniones_768.png"
+                    />
+                    <img
+                      src="./assets/img/uniones/Ragnar_Uniones.png"
+                      alt="Ragnar desembarcando y tomando la mano de una dama"
+                    />
+                  </picture>
                 </div>
-
                 <div class="swiper-slide">
-                  <img
+                  <!-- <img
                     src="./assets/img/Vikingos_invadiendo.png"
                     alt="Danesses a punto de invadir Inglaterra"
-                  />
+                  /> -->
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="
+                        ./assets/img/incursiones/Vikingos_invadiendo_480.png
+                      "
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="
+                        ./assets/img/incursiones/Vikingos_invadiendo_768.png
+                      "
+                    />
+                    <img
+                      src="./assets/img/incursiones/Vikingos_invadiendo.png"
+                      alt="Pintura de barcos Vikingos en el mar"
+                    />
+                  </picture>
                 </div>
-
                 <div class="swiper-slide">
-                  <img
+                  <!-- <img
                     src="./assets/img/Muerte_de_Ragnar_Lodbroks.png"
                     alt="Muerte de Ragnar"
-                  />
+                  /> -->
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="
+                        ./assets/img/muerte/Muerte_de_Ragnar_Lodbroks_480.png
+                      "
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="
+                        ./assets/img/muerte/Muerte_de_Ragnar_Lodbroks_768.png
+                      "
+                    />
+                    <img
+                      src="./assets/img/muerte/Muerte_de_Ragnar_Lodbroks.png"
+                      alt="Ragnar dentro un pozo con serpientes agonizando"
+                    />
+                  </picture>
                 </div>
               </div>
               <!-- If we need pagination -->
               <div class="swiper-pagination"></div>
-
               <!-- If we need navigation buttons -->
               <div class="swiper-button-prev"></div>
               <div class="swiper-button-next"></div>
-
               <!-- If we need scrollbar -->
               <div class="swiper-scrollbar"></div>
             </div>
@@ -116,14 +176,41 @@
             </li>
           </ul>
         </div>
+        <div class="columnC">
+          <img
+            srcset="
+              ./assets/img/cuervo/cuervo_50.png   50w,
+              ./assets/img/cuervo/cuervo_768.png 768w
+            "
+            sizes="(max-width: 480px) 50px, 768px"
+            src="./assets/img/cuervo/cuervo_768.png"
+            alt="Cuervo de Odin"
+          />
+        </div>
       </section>
     </main>
     <footer>
-      <p>
-        Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
-        <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
-        <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
-      </p>
+      <div>
+        <img
+          src="./assets/img/logoCascoVikingoBlanco.png"
+          alt="casco vikingo"
+        />
+      </div>
+      <div class="footer-menu">
+        <ul>
+          <li><a href="categoria.html">Categoría</a></li>
+          <li><a href="presentacion.html">Presentación</a></li>
+          <li><a href="enlaces.html">Enlaces</a></li>
+        </ul>
+      </div>
+      <div>
+        <p>Imagen de Portada Escudo de Cuervo | Skydrake |CC BY-SA 3.0</p>
+        <p>
+          Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
+          <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
+          <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
+        </p>
+      </div>
     </footer>
   </body>
 </html>

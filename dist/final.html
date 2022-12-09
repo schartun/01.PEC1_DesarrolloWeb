@@ -18,7 +18,8 @@
   </head>
   <body>
     <header>
-      <span class="logo">Ragnar Lodbrok</span>
+      <img src="/logoCascoVikingo.2f7b5937.png" alt="casco vikingo">
+      <h1 class="logo">Ragnar Lodbrok</h1>
       <nav>
         <ul>
           <li><a href="/index.html">Inicio</a></li>
@@ -28,14 +29,18 @@
         </ul>
       </nav>
     </header>
-
     <main>
       <article class="main-layout">
         <div class="columnA">
           <figure>
-            <img src="/Muerte_de_Ragnar_Lodbroks.54f7d257.png" alt="Muerte de Ragnar">
+            <picture>
+              <source media="(max-width: 480px)" srcset="/Muerte_de_Ragnar_Lodbroks_480.87e7946c.png">
+              <source media="(max-width: 768px)" srcset="/Muerte_de_Ragnar_Lodbroks_768.bf2f7ba3.png">
+              <img src="/Muerte_de_Ragnar_Lodbroks.409978f0.png" alt="Ragnar dentro un pozo con serpientes agonizando">
+            </picture>
             <figcaption>
-              MUerte de Ragnar Lodbroks | Hamilton | Dominio público
+              Ilustración de Las Crónicas de Núremberg. | Nuremberg | Dominio
+              público
             </figcaption>
           </figure>
         </div>
@@ -74,14 +79,30 @@
             supuestamente moriría por una fuerte disentería.
           </p>
         </div>
+        <div class="columnC">
+          <img srcset="/cuervo_50.7c4f7b19.png   50w, /cuervo_768.13512193.png 768w" sizes="(max-width: 480px) 50px, 768px" src="/cuervo_768.13512193.png" alt="Cuervo de Odin">
+        </div>
       </article>
     </main>
     <footer>
-      <p>
-        Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
-        <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
-        <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
-      </p>
+      <div>
+        <img src="/logoCascoVikingoBlanco.2a708464.png" alt="casco vikingo">
+      </div>
+      <div class="footer-menu">
+        <ul>
+          <li><a href="/categoria.html">Categoría</a></li>
+          <li><a href="/presentacion.html">Presentación</a></li>
+          <li><a href="/enlaces.html">Enlaces</a></li>
+        </ul>
+      </div>
+      <div>
+        <p>Imagen de Portada Escudo de Cuervo | Skydrake |CC BY-SA 3.0</p>
+        <p>
+          Trabajo realizado por Ivan Schartun. Asignatura: Herramientas
+          <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y
+          <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>
+        </p>
+      </div>
     </footer>
   <script src="/final.405dedbc.js"></script></body>
 </html>
