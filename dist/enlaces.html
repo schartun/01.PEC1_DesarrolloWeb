@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;500&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="/index.8c1c22dc.css">
+    <script src="/categoria.18dbc454.js" defer=""></script>
     <!-- las tres siguientes líneas son un truco para obtener elementos semánticos de HTML5 que funcionan en versiones de Internet Explorer antiguas -->
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -31,7 +32,72 @@
     </header>
     <main>
       <section class="main-layout">
-        <div class="columnB">
+        <div class="sectionA">
+          <!-- <figure>
+            <picture>
+              <source
+                media="(max-width: 480px)"
+                srcset="./assets/img/hero/Barcos_Vikingos_480.jpg"
+              />
+              <source
+                media="(max-width: 768px)"
+                srcset="./assets/img/hero/Barcos_Vikingos_768.jpg"
+              />
+              <img
+                src="./assets/img/hero/Barcos_Vikingos.jpg"
+                alt="Recreación de barcos vikingos"
+              />
+            </picture>
+            <figcaption>
+              Barcos vikingos navegando. | Joyce Hill | Dominio público
+            </figcaption>
+          </figure> -->
+          <figure>
+            <!-- Slider main container -->
+            <div class="swiper">
+              <!-- Additional required wrapper -->
+              <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide">
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Barcos_Vikingos_480.d1ec8753.jpeg">
+                    <source media="(max-width: 768px)" srcset="/Barcos_Vikingos_768.ec51e30d.jpeg">
+                    <img src="/Barcos_Vikingos.0fbf2976.jpeg" alt="Recreación de barcos vikingos">
+                  </picture>
+                </div>
+
+                <div class="swiper-slide">
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Piedra_Tjängvide_480.83d6bb64.jpeg">
+                    <source media="(max-width: 768px)" srcset="/Piedra_Tjängvide_768.982cecd1.jpeg">
+                    <img src="/Piedra_Tjängvide.c1bee6ee.jpeg" alt="Recreación de barcos vikingos">
+                  </picture>
+                </div>
+
+                <div class="swiper-slide">
+                  <picture>
+                    <source media="(max-width: 480px)" srcset="/Guests_from_Overseas_480.e5b85071.jpeg">
+                    <source media="(max-width: 768px)" srcset="/Guests_from_Overseas_768.bd201378.jpeg">
+                    <img src="/Guests_from_Overseas.b410842a.jpeg" alt="Recreación de barcos vikingos">
+                  </picture>
+                </div>
+              </div>
+              <!-- If we need pagination -->
+              <div class="swiper-pagination"></div>
+
+              <!-- If we need navigation buttons -->
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+
+              <!-- If we need scrollbar -->
+              <div class="swiper-scrollbar"></div>
+            </div>
+            <figcaption>
+              Diversas imagenes de embarcaciones vikingas | Dominio público
+            </figcaption>
+          </figure>
+        </div>
+        <div class="sectionB">
           <h1>Referencias</h1>
           <p>
             Tanto los textos como imágenes de este sitio está disponible bajo la
@@ -47,7 +113,16 @@
             <li>
               <a href="          https://es.wikipedia.org/wiki/Vikingo" target="_blank">Vikingo, versión español</a>
             </li>
+            <li>
+              <a href=" https://en.wikipedia.org/wiki/Vikings" target="_blank">Vikingo, versión eingles</a>
+            </li>
+            <li>
+              <a href="https://commons.wikimedia.org/wiki/File:Pireuslejonet.jpg" target="_blank">Piedra Pireuslejonet</a>
+            </li>
           </ul>
+        </div>
+        <div class="sectionC">
+          <img srcset="/cuervo_50.7c4f7b19.png   50w, /cuervo_768.13512193.png 768w" sizes="(max-width: 480px) 50px, 768px" src="/cuervo_768.13512193.png" alt="Cuervo de Odin">
         </div>
       </section>
     </main>
@@ -71,5 +146,5 @@
         </p>
       </div>
     </footer>
-  <script src="/enlaces.1110e809.js"></script></body>
+  </body>
 </html>

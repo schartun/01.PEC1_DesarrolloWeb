@@ -17,6 +17,7 @@
     />
 
     <link rel="stylesheet" href="./css/main.scss" />
+    <script type="module" src="./js/main.js"></script>
     <!-- las tres siguientes líneas son un truco para obtener elementos semánticos de HTML5 que funcionan en versiones de Internet Explorer antiguas -->
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -37,25 +38,116 @@
     </header>
     <main>
       <article class="main-layout">
-        <div class="columnA">
+        <div class="sectionA">
           <figure>
-            <img
-              src="./assets/img/Ragnar_contra_una_bestia.png"
-              alt="Ragnar desembarcando"
-            />
+            <!-- Slider main container -->
+            <div class="swiper">
+              <!-- Additional required wrapper -->
+              <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide">
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="./assets/img/hero/Barcos_Vikingos_480.jpg"
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="./assets/img/hero/Barcos_Vikingos_768.jpg"
+                    />
+                    <img
+                      src="./assets/img/hero/Barcos_Vikingos.jpg"
+                      alt="Recreación de barcos vikingos"
+                    />
+                  </picture>
+                </div>
+
+                <div class="swiper-slide">
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="./assets/img/hero/Piedra_Tjängvide_480.jpg"
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="./assets/img/hero/Piedra_Tjängvide_768.jpg"
+                    />
+                    <img
+                      src="./assets/img/hero/Piedra_Tjängvide.jpg"
+                      alt="Recreación de barcos vikingos"
+                    />
+                  </picture>
+                </div>
+
+                <div class="swiper-slide">
+                  <picture>
+                    <source
+                      media="(max-width: 480px)"
+                      srcset="./assets/img/hero/Guests_from_Overseas_480.jpg"
+                    />
+                    <source
+                      media="(max-width: 768px)"
+                      srcset="./assets/img/hero/Guests_from_Overseas_768.jpg"
+                    />
+                    <img
+                      src="./assets/img/hero/Guests_from_Overseas.jpg"
+                      alt="Recreación de barcos vikingos"
+                    />
+                  </picture>
+                </div>
+              </div>
+              <!-- If we need pagination -->
+              <div class="swiper-pagination"></div>
+
+              <!-- If we need navigation buttons -->
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+
+              <!-- If we need scrollbar -->
+              <div class="swiper-scrollbar"></div>
+            </div>
             <figcaption>
-              Una guerrero matando una bestia | Stjerna, Hjälmar och svärd i
-              Beovulf | Dominio público
+              Diversas imagenes de embarcaciones vikingas | Dominio público
             </figcaption>
           </figure>
         </div>
-        <div class="columnB">
+        <div class="sectionB">
           <h1>Sobre el sitio</h1>
           <p>
             Ragnar Lodbrok es uno de esos personajes legendarios en que la
             historia y la leyenda se funden, haciendo difícil saber en dónde
             empieza una y termina otra.
           </p>
+          <img src="./assets/img/barco svg/drakkar.png" class="barco" >
+          <div class="svgImage">
+            
+              <svg width="200px" height="175px" version="1.1">
+                <path
+                     fill="transparent" 
+                     stroke="#000000"
+                     stroke-width="4"
+                     d="M10 80 Q 77.5 10, 145 80 T 280 80"
+                     class="path"
+                   ></path>
+     
+                   <path
+                     fill="transparent"
+                     stroke="#000000"
+                     stroke-width="4"
+                     d="M 9 91 Q 77.5 10 145 95 T 279 97"
+                     class="path"
+                   ></path>
+     
+                   <path
+                     fill="transparent"
+                     stroke="#000000"
+                     stroke-width="4"
+                     d="M 8 104 Q 77.5 10 146 110 T 278 110"
+                     class="path"
+                   ></path>
+     </svg>
+            </svg>
+          </div>
           <p>
             Sin embargo, sus acciones militares le hicieron ganar un lugar
             privilegiado en el panteón de la historia, posicionándolo con
@@ -74,6 +166,17 @@
             Este sitio web busca dar algunas pinceladas de ese personaje de la
             historia tan enigmatico para algunos.
           </p>
+        </div>
+        <div class="sectionC">
+          <img
+            srcset="
+              ./assets/img/cuervo/cuervo_50.png   50w,
+              ./assets/img/cuervo/cuervo_768.png 768w
+            "
+            sizes="(max-width: 480px) 50px, 768px"
+            src="./assets/img/cuervo/cuervo_768.png"
+            alt="Cuervo de Odin"
+          />
         </div>
       </article>
     </main>

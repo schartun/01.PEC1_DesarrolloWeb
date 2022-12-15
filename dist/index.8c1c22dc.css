@@ -39,6 +39,10 @@ nav li.active {
 }
 
 @media (min-width: 650px) {
+  header img {
+    max-width: 7.5rem;
+  }
+
   .logo {
     width: fit-content;
     margin: 0 2rem;
@@ -63,7 +67,6 @@ footer {
   text-align: center;
   background-color: var(--text-color);
   color: var(--swiper-theme-color);
-  margin-top: 8rem;
   font-size: 1.2rem;
   line-height: 2rem;
 }
@@ -94,6 +97,10 @@ footer p:first-child {
   footer p, footer .footer-menu ul li a {
     font-size: 1.1rem;
   }
+
+  footer img {
+    max-width: 3.5rem;
+  }
 }
 
 .index {
@@ -103,13 +110,28 @@ footer p:first-child {
 .raven {
   width: 100%;
   height: 80vh;
-  clip-path: ellipse(calc(10rem + 40%) calc(25rem + 40%) at 10% 20%);
-  background-image: url("Raven_Banner.c4bd4588.png");
+  clip-path: circle(98.7% at 20% 3%);
+  background-image: url("Raven_Banner.e8a79e6a.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: .3rem;
   padding-bottom: 69%;
+  animation: 3s ease-in-out 3 showIt;
+}
+
+@keyframes showIt {
+  0% {
+    clip-path: circle(64.9% at 20% 3%);
+  }
+
+  50% {
+    clip-path: circle(75.4% at 20% 3%);
+  }
+
+  100% {
+    clip-path: circle(98.7% at 20% 3%);
+  }
 }
 
 @media (min-width: 650px) {
@@ -120,88 +142,110 @@ footer p:first-child {
 
 .main-layout {
   width: 100%;
-  flex-direction: column;
-  align-items: center;
-  display: flex;
+  margin-bottom: 8rem;
 }
 
-.columnA {
+.sectionA, .sectionA figure {
   width: 100%;
-  margin: 2rem;
-  box-shadow: 0 7px 29px #64646f33;
 }
 
-.columnB {
-  width: 80%;
-  margin-top: 4rem;
-  margin-bottom: 2rem;
+.sectionA figure figcaption {
+  padding-right: 1rem;
 }
 
-.columnB ul {
+.sectionB {
+  width: 70%;
+  margin: 4rem auto 2rem;
+}
+
+.sectionB ul {
   padding-left: 2rem;
 }
 
-.columnB ul li {
+.sectionB ul li {
   font-size: 1.8rem;
   list-style-type: square;
 }
 
-.columnB h1 {
+.sectionB h1 {
   margin-bottom: 1rem;
   font-size: 3rem;
 }
 
-.columnB p {
+.sectionB p {
   margin-bottom: .8rem;
   line-height: 2.8rem;
 }
 
-.columnB p, .columnB cite, .columnB em, .columnB span {
+.sectionB p, .sectionB cite, .sectionB em, .sectionB span, .sectionB li {
   color: var(--text-color);
   font-size: 1.8rem;
 }
 
-.columnB a {
+.sectionB a {
   color: var(--contrast-color);
   border-bottom: var(--contrast-color) .2rem dotted;
+  margin-left: 1.2rem;
   font-size: 1.8rem;
 }
 
-.columnB a:hover {
+.sectionB a:hover {
   color: var(--text-color);
 }
 
-.columnC {
-  width: 30%;
+.sectionB img {
+  max-width: 240px;
+  margin: 0 auto;
+  display: block;
+}
+
+ul.indice {
+  gap: 2rem;
+  margin-top: 5rem;
+  display: grid;
+}
+
+ul.indice li {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 1.8rem;
+  list-style-type: none;
+  display: flex;
+}
+
+ul.indice li img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50px;
+  margin: 0;
+}
+
+ul.indice li a {
+  border-bottom: none;
+  margin-left: 2rem;
+}
+
+figure {
+  width: 60%;
   margin: 0 auto;
 }
 
 figcaption {
-  padding: .8rem;
+  width: 100%;
+  text-align: right;
+  margin: 0 auto 2rem;
   font-size: .8rem;
 }
 
+.sectionC {
+  width: 10%;
+  margin: 0 auto;
+}
+
 @media (min-width: 769px) {
-  .main-layout {
-    grid-template-columns: 1fr 1fr;
-    place-items: start center;
-    display: grid;
-  }
-
-  .columnA {
-    width: 80%;
-  }
-
-  .columnA figure {
-    margin-top: 2rem;
-  }
-
-  .columnB p, .columnB ul {
-    width: 90%;
-  }
-
-  .columnC {
-    grid-column: 2 / 2;
+  .sectionB p, .sectionB ul {
+    width: 100%;
   }
 }
 
@@ -212,6 +256,42 @@ figcaption {
 img {
   width: 100%;
   object-fit: cover;
+}
+
+.sectionB img.barco {
+  width: 45%;
+  max-width: 15rem;
+  min-width: 11rem;
+  margin-bottom: -6rem;
+}
+
+.sectionB div.svgImage {
+  width: 250px;
+  height: 175px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.sectionB div.svgImage svg {
+  width: 55%;
+  display: block;
+  position: absolute;
+}
+
+.sectionB div.svgImage svg .path {
+  stroke-dasharray: 320;
+  stroke-dashoffset: 0;
+  animation: 1s linear infinite dash;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 320px;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
 }
 
 @font-face {
@@ -875,12 +955,17 @@ button.swiper-pagination-bullet {
   font-size: 62.5%;
 }
 
+body, html {
+  height: 100%;
+}
+
 a {
   text-decoration: none;
 }
 
 a:hover {
   color: var(--contrast-color);
+  transition: color 2s ease-out;
 }
 
 ul {

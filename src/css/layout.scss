@@ -1,20 +1,24 @@
 // Estructura principal del main de las paginas exectuando, index.html
 .main-layout {
-  display: flex;
   width: 100%;
-  // margin: 2rem auto 0 auto;
-  flex-direction: column;
-  align-items: center;
+  margin-bottom: 8rem;
 }
 
-.columnA {
+.sectionA {
   width: 100%;
-  margin: 2rem;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+  figure {
+    width: 100%;
+
+    figcaption {
+      padding-right: 1rem;
+    }
+  }
 }
 
-.columnB {
-  width: 80%;
+.sectionB {
+  width: 70%;
+  margin: 0 auto;
   margin-top: 4rem;
   margin-bottom: 2rem;
 
@@ -40,12 +44,14 @@
   p,
   cite,
   em,
-  span {
+  span,
+  li {
     color: var(--text-color);
     font-size: 1.8rem;
   }
 
   a {
+    margin-left: 1.2rem;
     font-size: 1.8rem;
     color: var(--contrast-color);
     border-bottom: var(--contrast-color) 0.2rem dotted;
@@ -54,45 +60,65 @@
       color: var(--text-color);
     }
   }
+
+  img {
+    display: block;
+    max-width: 240px;
+    margin: 0 auto;
+  }
 }
 
-.columnC {
-  width: 30%;
+ul.indice {
+  display: grid;
+  margin-top: 5rem;
+  gap: 2rem;
+
+  li {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 1.8rem;
+    list-style-type: none;
+
+    img {
+      width: 5rem;
+      height: 5rem;
+      margin: 0;
+      border-radius: 50px;
+    }
+
+    a {
+      margin-left: 2rem;
+      border-bottom: none;
+    }
+  }
+}
+
+figure {
+  width: 60%;
   margin: 0 auto;
 }
+
 figcaption {
-  padding: 0.8rem;
+  width: 100%;
+  margin: 0 auto 2rem auto;
   font-size: 0.8rem;
+  text-align: right;
+}
+
+.sectionC {
+  width: 10%;
+  margin: 0 auto;
 }
 
 // Reglas para modificar propiedades a pantallas mayores a 769px
 @media (min-width: 769px) {
-  .main-layout {
-    // display: flex;
-    // flex-direction: row;
-    // align-items: start;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    place-items: center;
-    align-items: start;
-  }
-
-  .columnA {
-    width: 80%;
-    figure {
-      margin-top: 2rem;
-    }
-  }
-
-  .columnB {
+  .sectionB {
     p,
     ul {
-      width: 90%;
+      width: 100%;
     }
-  }
-
-  .columnC {
-    grid-column: 2 / 2;
   }
 }
 

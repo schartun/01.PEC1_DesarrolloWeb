@@ -1,0 +1,37 @@
+.sectionB {
+  img.barco {
+    width: 45%;
+    max-width: 15rem;
+    min-width: 11rem;
+    margin-bottom: -6rem;
+  }
+
+  div.svgImage {
+    background-color: white;
+    width: 250px;
+    height: 175px;
+    margin: 0 auto;
+
+    svg {
+      width: 55%;
+      display: block;
+      position: absolute;
+
+      .path {
+        stroke-dasharray: 320;
+        stroke-dashoffset: 0;
+        animation: dash 1s linear;
+        animation-iteration-count: infinite;
+      }
+
+      @keyframes dash {
+        from {
+          stroke-dashoffset: 320;
+        }
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    }
+  }
+}

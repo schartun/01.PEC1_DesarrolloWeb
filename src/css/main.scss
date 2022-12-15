@@ -2,6 +2,7 @@
 @import url(./footer.scss);
 @import url(./index.scss);
 @import url(./layout.scss);
+@import url(./animation.scss);
 
 /* Swiper CSS Styles/Size */
 @import '../../node_modules/swiper/swiper-bundle.css';
@@ -23,6 +24,11 @@
   font-family: 'Noto Serif', serif;
 }
 
+body,
+html {
+  height: 100%;
+}
+
 // Set general de valores para selectores comunes
 
 a {
@@ -31,6 +37,7 @@ a {
 
 a:hover {
   color: var(--contrast-color);
+  transition: color 2s ease-out;
 }
 
 ul {

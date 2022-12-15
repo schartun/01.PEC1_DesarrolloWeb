@@ -7,14 +7,29 @@
 .raven {
   width: 100%;
   height: 80vh;
-  background-image: url(../assets/img/Raven_Banner.png);
-  clip-path: ellipse(calc(10rem + 40%) calc(25rem + 40%) at 10% 20%);
+  background-image: url(../assets/img/escudo/Raven_Banner.png);
+
+  clip-path: circle(98.7% at 20% 3%);
 
   margin-top: 0.3rem;
   padding-bottom: 69%;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+
+  animation: showIt 3s ease-in-out 3;
+}
+
+@keyframes showIt {
+  0% {
+    clip-path: circle(64.9% at 20% 3%);
+  }
+  50% {
+    clip-path: circle(75.4% at 20% 3%);
+  }
+  100% {
+    clip-path: circle(98.7% at 20% 3%);
+  }
 }
 
 // Reglas para modificar propiedades a pantallas mayores a 650px

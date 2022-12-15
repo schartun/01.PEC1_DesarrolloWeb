@@ -39,7 +39,7 @@
     </header>
     <main>
       <section class="main-layout">
-        <div class="columnA">
+        <div class="sectionA">
           <figure>
             <!-- Slider main container -->
             <div class="swiper">
@@ -47,117 +47,96 @@
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                  <!-- <img
-                    src="./assets/img/Ragnar_Lodbrok_Nuremberg_chronicles.png"
-                    alt="Ragnar ilustración"
-                  /> -->
                   <picture>
                     <source
                       media="(max-width: 480px)"
-                      srcset="./assets/img/vida/Ragnar_Lodbrok_480.png"
+                      srcset="./assets/img/hero/Barcos_Vikingos_480.jpg"
                     />
                     <source
                       media="(max-width: 768px)"
-                      srcset="./assets/img/vida/Ragnar_Lodbrok_768.png"
+                      srcset="./assets/img/hero/Barcos_Vikingos_768.jpg"
                     />
                     <img
-                      src="./assets/img/vida/Ragnar_Lodbrok.jpg"
-                      alt="Ragnar ilustración"
+                      src="./assets/img/hero/Barcos_Vikingos.jpg"
+                      alt="Recreación de barcos vikingos"
                     />
                   </picture>
                 </div>
+
                 <div class="swiper-slide">
-                  <!-- <img
-                    src="./assets/img/Ragnar_Lodbrok.png"
-                    alt="Ragnar con dama"
-                  /> -->
                   <picture>
                     <source
                       media="(max-width: 480px)"
-                      srcset="./assets/img/uniones/Ragnar_Uniones_480.png"
+                      srcset="./assets/img/hero/Piedra_Tjängvide_480.jpg"
                     />
                     <source
                       media="(max-width: 768px)"
-                      srcset="./assets/img/uniones/Ragnar_Uniones_768.png"
+                      srcset="./assets/img/hero/Piedra_Tjängvide_768.jpg"
                     />
                     <img
-                      src="./assets/img/uniones/Ragnar_Uniones.png"
-                      alt="Ragnar desembarcando y tomando la mano de una dama"
+                      src="./assets/img/hero/Piedra_Tjängvide.jpg"
+                      alt="Recreación de barcos vikingos"
                     />
                   </picture>
                 </div>
+
                 <div class="swiper-slide">
-                  <!-- <img
-                    src="./assets/img/Vikingos_invadiendo.png"
-                    alt="Danesses a punto de invadir Inglaterra"
-                  /> -->
                   <picture>
                     <source
                       media="(max-width: 480px)"
-                      srcset="
-                        ./assets/img/incursiones/Vikingos_invadiendo_480.png
-                      "
+                      srcset="./assets/img/hero/Guests_from_Overseas_480.jpg"
                     />
                     <source
                       media="(max-width: 768px)"
-                      srcset="
-                        ./assets/img/incursiones/Vikingos_invadiendo_768.png
-                      "
+                      srcset="./assets/img/hero/Guests_from_Overseas_768.jpg"
                     />
                     <img
-                      src="./assets/img/incursiones/Vikingos_invadiendo.png"
-                      alt="Pintura de barcos Vikingos en el mar"
-                    />
-                  </picture>
-                </div>
-                <div class="swiper-slide">
-                  <!-- <img
-                    src="./assets/img/Muerte_de_Ragnar_Lodbroks.png"
-                    alt="Muerte de Ragnar"
-                  /> -->
-                  <picture>
-                    <source
-                      media="(max-width: 480px)"
-                      srcset="
-                        ./assets/img/muerte/Muerte_de_Ragnar_Lodbroks_480.png
-                      "
-                    />
-                    <source
-                      media="(max-width: 768px)"
-                      srcset="
-                        ./assets/img/muerte/Muerte_de_Ragnar_Lodbroks_768.png
-                      "
-                    />
-                    <img
-                      src="./assets/img/muerte/Muerte_de_Ragnar_Lodbroks.png"
-                      alt="Ragnar dentro un pozo con serpientes agonizando"
+                      src="./assets/img/hero/Guests_from_Overseas.jpg"
+                      alt="Recreación de barcos vikingos"
                     />
                   </picture>
                 </div>
               </div>
               <!-- If we need pagination -->
               <div class="swiper-pagination"></div>
+
               <!-- If we need navigation buttons -->
               <div class="swiper-button-prev"></div>
               <div class="swiper-button-next"></div>
+
               <!-- If we need scrollbar -->
               <div class="swiper-scrollbar"></div>
             </div>
             <figcaption>
-              Diversas imagnes sobre Ragnar Lodbrok | Dominio público
+              Diversas imagenes de embarcaciones vikingas | Dominio público
             </figcaption>
           </figure>
         </div>
-        <div class="columnB">
+        <div class="sectionB">
           <h1>Contenido</h1>
-          <ul>
-            <li><a href="./vida.html" target="_self">Vida</a></li>
+          <ul class="indice">
             <li>
+              <img
+                src="./assets/img/vida/Ragnar_Lodbrok_480.png"
+                alt="Ragnar Lodbrok"
+                class="lined thick"
+              />
+              <a href="./vida.html" target="_self">Vida</a>
+            </li>
+            <li>
+              <img
+                src="./assets/img/uniones/Ragnar_Uniones_480.png"
+                alt="Ragnar tomando mano de una dama"
+              />
               <a href="./uniones.html" target="_self">Uniones matrimoniales</a>
             </li>
             <li>
+              <img
+                src="./assets/img/incursiones/Vikingos_invadiendo_480.png"
+                alt="Varios barcos vikingos invadiendo"
+              />
               <a href="./incursiones.html" target="_self">Incursiones</a>
-              <ul>
+              <!-- <ul>
                 <li>
                   <a href="./incursiones.html#baltico">Baltico (840 DC)</a>
                 </li>
@@ -169,23 +148,16 @@
                     >Inglaterra (865 DC)</a
                   >
                 </li>
-              </ul>
+              </ul> -->
             </li>
             <li>
+              <img
+                src="./assets/img/muerte/Muerte_de_Ragnar_Lodbroks_480.png"
+                alt="Ragnar en un pozo de serpientes agonizando"
+              />
               <a href="./final.html" target="_self">Final de Ragnar Lodbrok</a>
             </li>
           </ul>
-        </div>
-        <div class="columnC">
-          <img
-            srcset="
-              ./assets/img/cuervo/cuervo_50.png   50w,
-              ./assets/img/cuervo/cuervo_768.png 768w
-            "
-            sizes="(max-width: 480px) 50px, 768px"
-            src="./assets/img/cuervo/cuervo_768.png"
-            alt="Cuervo de Odin"
-          />
         </div>
       </section>
     </main>

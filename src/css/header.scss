@@ -46,6 +46,10 @@ nav {
 // Reglas para modificar propiedades a pantallas mayores a 650px
 
 @media (min-width: 650px) {
+  header img {
+    max-width: 7.5rem;
+  }
+
   .logo {
     width: fit-content;
     display: inline;
