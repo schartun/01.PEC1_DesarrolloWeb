@@ -43,9 +43,8 @@ nav {
   }
 }
 
-// Reglas para modificar propiedades a pantallas mayores a 650px
-
-@media (min-width: 650px) {
+// Reglas para modificar propiedades a pantallas mayores a 769px
+@media (min-width: 769px) {
   header img {
     max-width: 7.5rem;
   }
@@ -61,11 +60,20 @@ nav {
       flex-direction: row;
       justify-content: flex-end;
       margin-right: 2rem;
+      margin-bottom: 1.2rem;
 
       font-size: 4rem;
 
       li {
         margin-right: 3rem;
+
+        a {
+          font-size: 2rem;
+        }
+      }
+
+      li.active {
+        border-bottom: 3px solid var(--contrast-color);
       }
     }
   }

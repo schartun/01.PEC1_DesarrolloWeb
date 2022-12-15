@@ -38,7 +38,7 @@ nav li.active {
   border-bottom: 1px solid var(--contrast-color);
 }
 
-@media (min-width: 650px) {
+@media (min-width: 769px) {
   header img {
     max-width: 7.5rem;
   }
@@ -53,12 +53,21 @@ nav li.active {
   nav ul {
     flex-direction: row;
     justify-content: flex-end;
+    margin-bottom: 1.2rem;
     margin-right: 2rem;
     font-size: 4rem;
   }
 
   nav ul li {
     margin-right: 3rem;
+  }
+
+  nav ul li a {
+    font-size: 2rem;
+  }
+
+  nav ul li.active {
+    border-bottom: 3px solid var(--contrast-color);
   }
 }
 
@@ -86,20 +95,24 @@ footer .footer-menu ul {
 footer .footer-menu ul li a {
   color: var(--swiper-theme-color);
   font-size: .6rem;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 footer p:first-child {
   padding-top: 1rem;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 769px) {
   footer p, footer .footer-menu ul li a {
     font-size: 1.1rem;
   }
 
   footer img {
     max-width: 3.5rem;
+  }
+
+  footer .footer-menu ul li a {
+    font-size: 1.2rem;
   }
 }
 
@@ -134,7 +147,7 @@ footer p:first-child {
   }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 769px) {
   .raven {
     padding-top: 15%;
   }
@@ -167,7 +180,7 @@ footer p:first-child {
   list-style-type: square;
 }
 
-.sectionB h1 {
+.sectionB h1, .sectionB h2 {
   margin-bottom: 1rem;
   font-size: 3rem;
 }

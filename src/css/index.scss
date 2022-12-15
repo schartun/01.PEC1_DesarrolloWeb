@@ -32,9 +32,8 @@
   }
 }
 
-// Reglas para modificar propiedades a pantallas mayores a 650px
-
-@media (min-width: 650px) {
+// Reglas para modificar propiedades a pantallas mayores a 769px
+@media (min-width: 769px) {
   .raven {
     padding-top: 15%;
   }
