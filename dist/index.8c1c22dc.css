@@ -103,6 +103,10 @@ footer p:first-child {
 }
 
 @media (min-width: 769px) {
+  footer {
+    padding-top: 1.2rem;
+  }
+
   footer p, footer .footer-menu ul li a {
     font-size: 1.1rem;
   }
@@ -158,7 +162,16 @@ footer p:first-child {
   margin-bottom: 8rem;
 }
 
-.sectionA, .sectionA figure {
+.sectionA {
+  width: 100%;
+}
+
+.sectionA img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.sectionA figure {
   width: 100%;
 }
 
@@ -207,7 +220,6 @@ footer p:first-child {
 }
 
 .sectionB img {
-  max-width: 240px;
   margin: 0 auto;
   display: block;
 }
@@ -242,6 +254,7 @@ ul.indice li {
 ul.indice li img {
   width: 5rem;
   height: 5rem;
+  object-fit: cover;
   border-radius: 50px;
   margin: 0;
 }
@@ -251,9 +264,10 @@ ul.indice li a {
   margin-left: 2rem;
 }
 
-.sectionC {
+.sectionC img {
   width: 10%;
   margin: 0 auto;
+  display: block;
 }
 
 @media (min-width: 769px) {
@@ -264,11 +278,6 @@ ul.indice li a {
 
 .swiper {
   width: 100%;
-}
-
-img {
-  width: 100%;
-  object-fit: cover;
 }
 
 .sectionB img.barco {

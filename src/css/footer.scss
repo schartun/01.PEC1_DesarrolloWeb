@@ -36,6 +36,7 @@ footer {
 // Reglas para modificar propiedades a pantallas mayores a 769px
 @media (min-width: 769px) {
   footer {
+    padding-top: 1.2rem;
     p,
     .footer-menu ul li a {
       font-size: 1.1rem;
