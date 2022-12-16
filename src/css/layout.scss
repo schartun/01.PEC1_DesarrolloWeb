@@ -64,26 +64,26 @@
     }
   }
 
-  // img {
-  //   display: block;
-  //   max-width: 240px;
-  //   margin: 0 auto;
-  // }
+  img {
+    display: block;
+    max-width: 240px;
+    margin: 0 auto;
+  }
 
   // Reglas que modifica contenedor de imagen inter parrafo dentro de cada pagina de detalle y leyenda
-  div figure {
-    width: 60%;
-    margin: 0 auto;
-
-    figcaption {
-      width: 100%;
-      margin: 0 auto 2rem auto;
-      font-size: 0.8rem;
-      text-align: right;
-    }
-  }
 }
 
+div figure {
+  width: 60%;
+  margin: 0 auto;
+}
+
+figcaption {
+  width: 100%;
+  margin: 0 auto 2rem auto;
+  font-size: 0.8rem;
+  text-align: right;
+}
 // Reglas para adecuacion de estilos en lista de categoria con imagenes mineatura
 ul.indice {
   display: grid;
