@@ -15,8 +15,8 @@ header img {
   height: auto;
 }
 
-// Estilo para el texto que sirve como Logo Ragnar
-.logo {
+// Estilo para el texto que se encentra en la cabecera con el nombre del personaje
+.titulo {
   font-size: 2.5rem;
   font-weight: 600;
   font-family: 'Grenze Gotisch';
@@ -49,7 +49,7 @@ nav {
     max-width: 7.5rem;
   }
 
-  .logo {
+  .titulo {
     width: fit-content;
     display: inline;
     margin: 0 2rem;
