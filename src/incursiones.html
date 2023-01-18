@@ -14,12 +14,12 @@
       name="description"
       content="Web biografica sobre la historia de Ragnar Lodbrok"
     />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;500&family=Noto+Serif:wght@400;700&display=swap"
       rel="stylesheet"
-    />
+    /> -->
 
     <link rel="stylesheet" href="./css/main.scss" />
     <!-- las tres siguientes líneas son un truco para obtener elementos semánticos de HTML5 que funcionan en versiones de Internet Explorer antiguas -->
@@ -29,7 +29,12 @@
   </head>
   <body>
     <header>
-      <img src="./assets/img/casco/logoCascoVikingo.png" alt="casco vikingo" />
+      <img
+        src="./assets/img/casco/logoCascoVikingo.svg"
+        alt="casco vikingo"
+        width="2083"
+        height="2083"
+      />
       <h1 class="titulo">Ragnar Lodbrok</h1>
       <nav>
         <ul>
@@ -48,14 +53,27 @@
             <picture>
               <source
                 media="(max-width: 480px)"
-                srcset="./assets/img/incursiones/Vikingos_invadiendo_480.png"
+                srcset="
+                  ./assets/img/incursiones/Vikingos_invadiendo_480.png?as=webp&width=800
+                "
+                type="image/webp"
+                width="480"
+                height="250"
               />
               <source
                 media="(max-width: 768px)"
-                srcset="./assets/img/incursiones/Vikingos_invadiendo_768.png"
+                srcset="
+                  ./assets/img/incursiones/Vikingos_invadiendo_768.png?as=webp&width=800
+                "
+                type="image/webp"
+                width="768"
+                height="400"
               />
               <img
-                src="./assets/img/incursiones/Vikingos_invadiendo.png"
+                src="./assets/img/incursiones/Vikingos_invadiendo.png?as=webp&width=800
+                "
+                width="1024"
+                height="500"
                 alt="Ilustración de barcos vikingos"
               />
             </picture>
@@ -146,12 +164,13 @@
         <div class="sectionC">
           <img
             srcset="
-              ./assets/img/cuervo/cuervo_odin_320.jpg,
-              ./assets/img/cuervo/cuervo_odin_480.jpg 1.5x,
-              ./assets/img/cuervo/cuervo_odin_640.jpg 2x
+              ./assets/img/cuervo/cuervo_odin_320.jpg?as=webp,
+              ./assets/img/cuervo/cuervo_odin_480.jpg?as=webp 1.5x,
+              ./assets/img/cuervo/cuervo_odin_640.jpg?as=webp 2x
             "
-            src="./assets/img/cuervo/cuervo_odin_640.jpg"
+            src="./assets/img/cuervo/cuervo_odin_640.jpg?as=webp"
             alt="Cuervo de Odin"
+            width="37"
           />
         </div>
       </article>
@@ -159,8 +178,10 @@
     <footer>
       <div>
         <img
-          src="./assets/img/casco/logoCascoVikingoBlanco.png"
+          src="./assets/img/casco/logoCascoVikingoBlanco.svg"
           alt="casco vikingo"
+          width="2083"
+          height="2083"
         />
       </div>
       <div class="footer-menu">
